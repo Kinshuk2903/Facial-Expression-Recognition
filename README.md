@@ -40,14 +40,14 @@ numpy
 
 tqdm
 
-# 📷 Usage
+# Usage
 Open Emotion detector1.ipynb in Jupyter Notebook.
 
 Execute the cells step-by-step.
 
 The webcam will activate and start detecting your emotions in real-time.
 
-# 👨‍💻 About Me
+# About Me
 Hello, my name is Kinshuk, an Engineering student at Kalinga Institute of Industrial Technology.
 This project is open-source and open to contributions. Feel free to fork, star ⭐ the repo, and submit a pull request!
 
